@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddaptiveCage", "solidMatch\AddaptiveCage.csproj", "{293F5897-4580-419E-AEDE-1CC13E40EE3A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaptiveCage", "solidMatch\AdaptiveCage.csproj", "{293F5897-4580-419E-AEDE-1CC13E40EE3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

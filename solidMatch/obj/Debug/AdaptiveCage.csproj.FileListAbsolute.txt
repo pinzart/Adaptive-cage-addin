@@ -1,0 +1,7 @@
+C:\ProgramData\Autodesk\Revit\Addins\2019\solidMatch\solidMatch\solidMatch\obj\Debug\AdaptiveCage.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Addins\2019\solidMatch\solidMatch\solidMatch\obj\Debug\solidMatch.dll
+C:\ProgramData\Autodesk\Revit\Addins\2019\solidMatch\solidMatch\solidMatch\obj\Debug\solidMatch.pdb
+C:\ProgramData\Autodesk\Revit\Addins\2019\solidMatch\solidMatch\solidMatch\bin\Debug\solidMatch.dll
+C:\ProgramData\Autodesk\Revit\Addins\2019\solidMatch\solidMatch\solidMatch\bin\Debug\solidMatch.pdb
+C:\ProgramData\Autodesk\Revit\Addins\2019\solidMatch\solidMatch\solidMatch\bin\Debug\Newtonsoft.Json.dll
+C:\ProgramData\Autodesk\Revit\Addins\2019\solidMatch\solidMatch\solidMatch\bin\Debug\Newtonsoft.Json.xml
